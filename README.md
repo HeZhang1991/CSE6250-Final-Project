@@ -1,6 +1,5 @@
-# CSE6250-Final-Project
-
-# CSE 6250 Term project Repo to replicate the Neural Survival Cluster model.
+# CSE6250-Final-Project 
+Replicate the Neural Survival Cluster model.
 This is a CSE6250 Final project repo to reproduce the results in [Neural Survival Clustering: Non parametric mixture of neural networks for survival clustering](https://proceedings.mlr.press/v174/jeanselme22a/jeanselme22a.pdf)
 
 ## Model
