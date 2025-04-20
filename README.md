@@ -8,13 +8,13 @@ The model consists in a mixture of K neural networks that model different popula
 ![Model](./images/nsc.png)
 
 ## How to use the replication and reproduction code?
-step 1: Download the whole repo 
+Step 1: Download the whole repo 
 
-Step 2: Upload the whole /NeuralSurvivalClustering folder to your google drive 
+Step 2: Upload the whole /NeuralSurvivalClustering folder to your Google Drive 
 
 Step 3: Make sure the /NeuralSurvivalClustering folder is under /content/gdrive/My Drive
 
-Step 4: Go to folder named "Experiments"
+Step 4: Go to the folder named /Experiments
 
 Step 5: Open the notebook "Neural Survival Clustering on SUPPORT Dataset.ipynb" or "Neural Survival Clustering on METABRIC Dataset.ipynb"
 
@@ -27,5 +27,5 @@ Running the .ipynb files will complete the setup of the environment and path dep
 
 
 ## Requirements
-Standard Google colab environment. 
+Standard Google Colab environment. 
 Running the .ipynb files will complete the setup of the environment and path dependency requirements. 
