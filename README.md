@@ -5,7 +5,7 @@ This is a CSE6250 Final project repo to reproduce the results in [Neural Surviva
 ## Model
 The model consists in a mixture of K neural networks that model different population-level survival distributions, and an assignment neural network that weights these different mixtures given the input data. 
 
-![Model](./images/nsc.png)
+![Model](./NeuralSurvivalClustering/images/nsc.png)
 
 ## How to use the replication and reproduction code?
 Step 1: Download the whole repo 
