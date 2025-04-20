@@ -14,7 +14,7 @@ Step 2: Upload the whole /NeuralSurvivalClustering folder to your Google Drive
 
 Step 3: Make sure the /NeuralSurvivalClustering folder is under /content/gdrive/My Drive
 
-Step 4: Go to the folder named /Experiments
+Step 4: Go to the folder /Experiments
 
 Step 5: Open the notebook "Neural Survival Clustering on SUPPORT Dataset.ipynb" or "Neural Survival Clustering on METABRIC Dataset.ipynb"
 
